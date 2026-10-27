@@ -1,2 +1,12 @@
 data/
 .DS_Store
+/hw1/data/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
